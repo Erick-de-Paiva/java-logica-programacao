@@ -31,7 +31,7 @@ Este projeto foi desenvolvido para:
 
 ---
 
-## 👨‍💻 Autor
+## Autor
 
 **Erick de Paiva Alberto**
 

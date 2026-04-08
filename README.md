@@ -2,7 +2,7 @@
 
 Este repositório contém **35 exercícios de lógica de programação**, desenvolvidos em **Java**, com foco no aprendizado dos principais fundamentos da programação.
 
-📌 Projeto criado com o objetivo de evoluir o raciocínio lógico e consolidar a base necessária para o desenvolvimento de software.
+Projeto criado com o objetivo de evoluir o raciocínio lógico e consolidar a base necessária para o desenvolvimento de software.
 
 ---
 
